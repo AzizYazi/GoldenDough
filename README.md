@@ -54,48 +54,49 @@ Contacts ( Food & Beverages delivery, Find our shops (google maps) - rifat
 
 Each of the members has created web pages for the projects. Everyone was active in our group and deeply hardworking. Below in the box we are giving more specifically who had done which part for the project:
  
-Name 
-Contribution 
+Name 								Contribution 
 Al-Yazidi Abdulaziz Hussein Ghaleb
 
 
+
+Name							       Contribution 
 Emon Rifat Hasan(1832901)  
- -   Pages : Home & Contacts
- -   Web elements: Logo
- -   Making links of the contact such as YouTube,    Facebook,    Instagram etc. in the footer.
- -   Develop the skeleton of the homepage.
- -   Designing the whole page of contacts (HTML, CSS)
-         -   Using API in Privacy and Terms & Conditions pages.  (HTML, CSS, API)
+ 								-   Pages : Home & Contacts
+ 								-   Web elements: Logo
+								-   Making links of the contact such as YouTube,Facebook,Instagram etc. 
+ 								-   Develop the skeleton of the homepage.
+ 								-   Designing the whole page of contacts (HTML,CSS,JS)
+         							-   Using  (HTML, CSS, Java Script) in pages.
+								
+Name							       Contribution 
 Muhamad Zolkharnain Fahmi bin Abd Rahman
 
-Preparing the project site map, project descriptions and also introductions in the proposal.
-Pages: About us & Login and Register (HTML)
-Web elements: Images and forms
-Creates the content of the page
-Using form functions to the login page
-Using scripts in the login page
-Creating the header, navigation bar and using some icons from the bootstrap css files (CSS)
+								- Preparing the project site map, project descriptions and also introductions in the proposal.
+								- Pages: About us & Login and Register (HTML)
+								- Web elements: Images and forms
+								- Creates the content of the page
+								- Using form functions to the login page
+								- Using scripts in the login page
+								- Creating the header, navigation bar and using some icons from the bootstrap css files (CSS)
 
-
+Name							       Contribution 
 Nur Aiena Hajeerah bt Abdul Hakim
 
-Pages: Deals & Promotion
-Web Elements : Images
-Display most-ordered menu (CSS, HTML)
-Auto-slide images of meal deal (jQuery, CSS, HTML)
+								- Pages: Deals & Promotion
+								- Web Elements : Images
+								- Display most-ordered menu (CSS, HTML)
+								- Auto-slide images of meal deal (jQuery, CSS, HTML)
 
   
 4.  	Use of third party resources
 
 5.  	References
 
-		APA format pls!
-
-*     	Inspiration & code solutions
-·                Recipes Content
+*     		Inspiration & code solutions
+*               Recipes Content
 ●         	https://www.geeksforgeeks.org/search-bar-using-html-css-and-javascript/
 ●         	https://www.w3schools.com/howto/howto_js_filter_lists.asp
-https://medium.com/javascript-in-plain-english/simple-async-search-bar-with-javascript-13652c90485e  	  	
+*		https://medium.com/javascript-in-plain-english/simple-async-search-bar-with-javascript-13652c90485e  	  	
 ●         	https://www.w3schools.com/howto/howto_html_file_upload_button.asp
 ●         	https://www.w3schools.com/cssref/pr_list-style-type.asp
 
